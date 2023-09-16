@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/go-editor/static/js/main.7f8fcb50.js",
+    "index.html": "/go-editor/index.html",
+    "main.7f8fcb50.js.map": "/go-editor/static/js/main.7f8fcb50.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7f8fcb50.js"
+  ]
+}

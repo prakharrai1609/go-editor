@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Montserrat&family=Roboto&family=Roboto+Mono:wght@100&display=swap');
+
+body {
+  margin: 10%;
+  padding: 10%;
+}
+
+.title {  
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.title span {
+  color: rgb(24, 214, 239);
+}
+
+.editor {
+  padding: 1rem;
+  margin: 1rem 0;
+  border: 1px solid rgb(165, 165, 165);
+}
+
+/* Footer Styles */
+.cool-footer {
+  color: #000;
+  text-align: center;
+  padding: 1rem;
+}
+
+.footer-text {
+  font-size: 1rem;
+  margin: 0;
+}
+
+.social-links {
+  margin-top: 1rem;
+}
+
+.social-links a {
+  display: inline-block;
+  margin: 0 0.5rem;
+  transition: transform 0.2s;
+}
+
+.social-links a:hover {
+  transform: scale(1.1);
+}
+
+.social-links img {
+  width: 30px;
+  height: 30px;
+}
+
+main {
+  flex: 1
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  min-height: 80vh;
+}
+
+.output {
+  margin: 1rem 0;
+  padding: 1rem;
+  background-color: black;
+  color: rgb(34, 255, 0);
+}
